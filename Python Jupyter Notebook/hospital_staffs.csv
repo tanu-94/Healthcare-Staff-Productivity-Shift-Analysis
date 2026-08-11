@@ -1,0 +1,201 @@
+shift_id,staff_id,dept_id,date_id,shift_date,shift_type,hours_worked,overtime_hrs,patients_attended,absent_flag,staff_name,role,experience_yrs,contract_type,hourly_rate,dept_name,required_staff_per_shift,criticality,full_date,day_of_week,month,quarter,year,is_weekend,max_patients_per_shift,standard_shift_hrs,overtime_threshold_hrs,overtime_cost,day_of_week_num,over_benchmark
+SHF0001,STF011,DEPT10,DT20241218,2024-12-18,Evening,9.8,1.8,10,False,Swathi Nayak,Nurse,17,Full-Time,201,Neurology,2,High,2024-12-18,Wednesday,12,4,2024,False,12,8,20,361.8,3,False
+SHF0002,STF039,DEPT04,DT20240617,2024-06-17,Morning,9.7,1.7,7,False,Dinesh Raju,Technician,6,Full-Time,253,Oncology,3,Medium,2024-06-17,Monday,6,2,2024,False,10,8,18,430.09999999999997,1,False
+SHF0003,STF034,DEPT07,DT20240622,2024-06-22,Evening,9.0,1.0,8,False,Srinivas Reddy,Technician,1,Contract,242,Orthopaedics,2,Medium,2024-06-22,Saturday,6,2,2024,True,10,8,18,242.0,6,False
+SHF0004,STF017,DEPT05,DT20240112,2024-01-12,Night,8.4,0.4,8,False,Uma Rajan,Nurse,2,Full-Time,219,General_Ward,4,Low,2024-01-12,Friday,1,1,2024,False,12,8,20,87.60000000000001,5,False
+SHF0005,STF011,DEPT04,DT20240420,2024-04-20,Morning,8.0,0.0,10,False,Swathi Nayak,Nurse,17,Full-Time,201,Oncology,3,Medium,2024-04-20,Saturday,4,2,2024,True,12,8,20,0.0,6,False
+SHF0006,STF024,DEPT10,DT20241227,2024-12-27,Morning,0.0,0.0,0,True,Dr. Vijay Kumar,Doctor,15,Full-Time,842,Neurology,2,High,2024-12-27,Friday,12,4,2024,False,8,8,15,0.0,5,False
+SHF0007,STF032,DEPT10,DT20240826,2024-08-26,Night,9.0,1.0,8,False,Ashok Yadav,Technician,8,Full-Time,261,Neurology,2,High,2024-08-26,Monday,8,3,2024,False,10,8,18,261.0,1,False
+SHF0008,STF002,DEPT06,DT20240106,2024-01-06,Morning,8.0,0.0,12,False,Preethi Nair,Nurse,15,Full-Time,223,Maternity,3,Medium,2024-01-06,Saturday,1,1,2024,True,12,8,20,0.0,6,False
+SHF0009,STF030,DEPT09,DT20240423,2024-04-23,Evening,8.0,0.0,8,False,Sunil Bhat,Technician,9,Full-Time,234,Nephrology,2,Medium,2024-04-23,Tuesday,4,2,2024,False,10,8,18,0.0,2,False
+SHF0010,STF010,DEPT08,DT20240706,2024-07-06,Night,10.1,2.1,8,False,Pooja Reddy,Nurse,10,Part-Time,247,Paediatrics,3,Medium,2024-07-06,Saturday,7,3,2024,True,12,8,20,518.7,6,False
+SHF0011,STF026,DEPT08,DT20241207,2024-12-07,Morning,8.9,0.9,4,False,Dr. Deepak Nair,Doctor,5,Full-Time,999,Paediatrics,3,Medium,2024-12-07,Saturday,12,4,2024,True,8,8,15,899.1,6,False
+SHF0012,STF037,DEPT08,DT20240810,2024-08-10,Night,9.6,1.6,7,False,Prasad Nair,Technician,18,Part-Time,185,Paediatrics,3,Medium,2024-08-10,Saturday,8,3,2024,True,10,8,18,296.0,6,False
+SHF0013,STF024,DEPT07,DT20240629,2024-06-29,Morning,0.0,0.0,0,True,Dr. Vijay Kumar,Doctor,15,Full-Time,842,Orthopaedics,2,Medium,2024-06-29,Saturday,6,2,2024,True,8,8,15,0.0,6,False
+SHF0014,STF019,DEPT10,DT20241017,2024-10-17,Morning,10.4,2.4,13,False,Chitra Murthy,Nurse,6,Full-Time,273,Neurology,2,High,2024-10-17,Thursday,10,4,2024,False,12,8,20,655.1999999999999,4,True
+SHF0015,STF033,DEPT02,DT20241023,2024-10-23,Morning,8.3,0.3,6,False,Mahesh Tiwari,Technician,6,Full-Time,232,Emergency,5,High,2024-10-23,Wednesday,10,4,2024,False,10,8,18,69.6,3,False
+SHF0016,STF027,DEPT05,DT20241004,2024-10-04,Evening,8.0,0.0,7,False,Dr. Priya Sharma,Doctor,12,Full-Time,1195,General_Ward,4,Low,2024-10-04,Friday,10,4,2024,False,8,8,15,0.0,5,False
+SHF0017,STF029,DEPT08,DT20240310,2024-03-10,Evening,10.9,2.9,6,False,Ramesh Naik,Technician,13,Part-Time,256,Paediatrics,3,Medium,2024-03-10,Sunday,3,1,2024,True,10,8,18,742.4,7,False
+SHF0018,STF020,DEPT03,DT20241103,2024-11-03,Morning,9.8,1.8,9,False,Manjula Shetty,Nurse,3,Full-Time,283,Cardiology,3,High,2024-11-03,Sunday,11,4,2024,True,12,8,20,509.40000000000003,7,False
+SHF0019,STF018,DEPT03,DT20240825,2024-08-25,Morning,8.0,0.0,8,False,Revathi Deshpande,Nurse,20,Contract,213,Cardiology,3,High,2024-08-25,Sunday,8,3,2024,True,12,8,20,0.0,7,False
+SHF0020,STF026,DEPT05,DT20240314,2024-03-14,Morning,8.9,0.9,11,False,Dr. Deepak Nair,Doctor,5,Full-Time,999,General_Ward,4,Low,2024-03-14,Thursday,3,1,2024,False,8,8,15,899.1,4,True
+SHF0021,STF015,DEPT07,DT20240910,2024-09-10,Night,9.0,1.0,12,False,Nalini Joshi,Nurse,1,Full-Time,221,Orthopaedics,2,Medium,2024-09-10,Tuesday,9,3,2024,False,12,8,20,221.0,2,False
+SHF0022,STF026,DEPT10,DT20240922,2024-09-22,Evening,8.0,0.0,7,False,Dr. Deepak Nair,Doctor,5,Full-Time,999,Neurology,2,High,2024-09-22,Sunday,9,3,2024,True,8,8,15,0.0,7,False
+SHF0023,STF039,DEPT05,DT20240614,2024-06-14,Morning,10.7,2.7,10,False,Dinesh Raju,Technician,6,Full-Time,253,General_Ward,4,Low,2024-06-14,Friday,6,2,2024,False,10,8,18,683.1,5,False
+SHF0024,STF019,DEPT08,DT20240207,2024-02-07,Night,9.6,1.6,9,False,Chitra Murthy,Nurse,6,Full-Time,273,Paediatrics,3,Medium,2024-02-07,Wednesday,2,1,2024,False,12,8,20,436.8,3,False
+SHF0025,STF028,DEPT03,DT20240520,2024-05-20,Morning,11.3,3.3,4,False,Dr. Anand Gupta,Doctor,19,Part-Time,739,Cardiology,3,High,2024-05-20,Monday,5,2,2024,False,8,8,15,2438.7,1,False
+SHF0026,STF005,DEPT09,DT20240424,2024-04-24,Morning,8.0,0.0,8,False,Rekha Sharma,Nurse,8,Full-Time,244,Nephrology,2,Medium,2024-04-24,Wednesday,4,2,2024,False,12,8,20,0.0,3,False
+SHF0027,STF021,DEPT07,DT20241228,2024-12-28,Night,11.1,3.1,4,False,Dr. Suresh Pai,Doctor,4,Full-Time,903,Orthopaedics,2,Medium,2024-12-28,Saturday,12,4,2024,True,8,8,15,2799.3,6,False
+SHF0028,STF013,DEPT05,DT20240420,2024-04-20,Night,9.0,1.0,8,False,Bindu Singh,Nurse,11,Contract,215,General_Ward,4,Low,2024-04-20,Saturday,4,2,2024,True,12,8,20,215.0,6,False
+SHF0029,STF025,DEPT05,DT20240516,2024-05-16,Night,9.9,1.9,7,False,Dr. Ranjit Singh,Doctor,16,Contract,1015,General_Ward,4,Low,2024-05-16,Thursday,5,2,2024,False,8,8,15,1928.5,4,False
+SHF0030,STF001,DEPT05,DT20241122,2024-11-22,Morning,9.8,1.8,12,False,Anitha Rao,Nurse,4,Full-Time,283,General_Ward,4,Low,2024-11-22,Friday,11,4,2024,False,12,8,20,509.40000000000003,5,False
+SHF0031,STF019,DEPT08,DT20240727,2024-07-27,Night,8.0,0.0,14,False,Chitra Murthy,Nurse,6,Full-Time,273,Paediatrics,3,Medium,2024-07-27,Saturday,7,3,2024,True,12,8,20,0.0,6,True
+SHF0032,STF034,DEPT08,DT20240225,2024-02-25,Night,10.0,2.0,8,False,Srinivas Reddy,Technician,1,Contract,242,Paediatrics,3,Medium,2024-02-25,Sunday,2,1,2024,True,10,8,18,484.0,7,False
+SHF0033,STF034,DEPT06,DT20240925,2024-09-25,Evening,0.0,0.0,0,True,Srinivas Reddy,Technician,1,Contract,242,Maternity,3,Medium,2024-09-25,Wednesday,9,3,2024,False,10,8,18,0.0,3,False
+SHF0034,STF026,DEPT03,DT20240124,2024-01-24,Morning,0.0,0.0,0,True,Dr. Deepak Nair,Doctor,5,Full-Time,999,Cardiology,3,High,2024-01-24,Wednesday,1,1,2024,False,8,8,15,0.0,3,False
+SHF0035,STF013,DEPT02,DT20240927,2024-09-27,Morning,0.0,0.0,0,True,Bindu Singh,Nurse,11,Contract,215,Emergency,5,High,2024-09-27,Friday,9,3,2024,False,12,8,20,0.0,5,False
+SHF0036,STF002,DEPT06,DT20240407,2024-04-07,Morning,9.1,1.1,12,False,Preethi Nair,Nurse,15,Full-Time,223,Maternity,3,Medium,2024-04-07,Sunday,4,2,2024,True,12,8,20,245.3,7,False
+SHF0037,STF018,DEPT09,DT20241109,2024-11-09,Night,9.5,1.5,8,False,Revathi Deshpande,Nurse,20,Contract,213,Nephrology,2,Medium,2024-11-09,Saturday,11,4,2024,True,12,8,20,319.5,6,False
+SHF0038,STF024,DEPT05,DT20240620,2024-06-20,Morning,11.0,3.0,7,False,Dr. Vijay Kumar,Doctor,15,Full-Time,842,General_Ward,4,Low,2024-06-20,Thursday,6,2,2024,False,8,8,15,2526.0,4,False
+SHF0039,STF003,DEPT08,DT20240930,2024-09-30,Evening,8.4,0.4,12,False,Sunita Hegde,Nurse,15,Full-Time,242,Paediatrics,3,Medium,2024-09-30,Monday,9,3,2024,False,12,8,20,96.80000000000001,1,False
+SHF0040,STF015,DEPT08,DT20240315,2024-03-15,Evening,0.0,0.0,0,True,Nalini Joshi,Nurse,1,Full-Time,221,Paediatrics,3,Medium,2024-03-15,Friday,3,1,2024,False,12,8,20,0.0,5,False
+SHF0041,STF012,DEPT01,DT20240417,2024-04-17,Morning,8.8,0.8,12,False,Asha Kulkarni,Nurse,13,Full-Time,292,ICU,4,High,2024-04-17,Wednesday,4,2,2024,False,12,8,20,233.60000000000002,3,False
+SHF0042,STF014,DEPT07,DT20241114,2024-11-14,Night,8.0,0.0,11,False,Latha Pillai,Nurse,8,Full-Time,223,Orthopaedics,2,Medium,2024-11-14,Thursday,11,4,2024,False,12,8,20,0.0,4,False
+SHF0043,STF011,DEPT01,DT20240922,2024-09-22,Morning,9.3,1.3,14,False,Swathi Nayak,Nurse,17,Full-Time,201,ICU,4,High,2024-09-22,Sunday,9,3,2024,True,12,8,20,261.3,7,True
+SHF0044,STF029,DEPT04,DT20241022,2024-10-22,Night,9.5,1.5,8,False,Ramesh Naik,Technician,13,Part-Time,256,Oncology,3,Medium,2024-10-22,Tuesday,10,4,2024,False,10,8,18,384.0,2,False
+SHF0045,STF011,DEPT04,DT20240314,2024-03-14,Evening,10.2,2.2,9,False,Swathi Nayak,Nurse,17,Full-Time,201,Oncology,3,Medium,2024-03-14,Thursday,3,1,2024,False,12,8,20,442.20000000000005,4,False
+SHF0046,STF013,DEPT01,DT20240424,2024-04-24,Night,9.4,1.4,10,False,Bindu Singh,Nurse,11,Contract,215,ICU,4,High,2024-04-24,Wednesday,4,2,2024,False,12,8,20,301.0,3,False
+SHF0047,STF039,DEPT01,DT20241116,2024-11-16,Night,8.5,0.5,9,False,Dinesh Raju,Technician,6,Full-Time,253,ICU,4,High,2024-11-16,Saturday,11,4,2024,True,10,8,18,126.5,6,False
+SHF0048,STF013,DEPT03,DT20240212,2024-02-12,Morning,8.0,0.0,8,False,Bindu Singh,Nurse,11,Contract,215,Cardiology,3,High,2024-02-12,Monday,2,1,2024,False,12,8,20,0.0,1,False
+SHF0049,STF027,DEPT08,DT20241220,2024-12-20,Morning,9.7,1.7,4,False,Dr. Priya Sharma,Doctor,12,Full-Time,1195,Paediatrics,3,Medium,2024-12-20,Friday,12,4,2024,False,8,8,15,2031.5,5,False
+SHF0050,STF014,DEPT10,DT20240115,2024-01-15,Night,9.3,1.3,11,False,Latha Pillai,Nurse,8,Full-Time,223,Neurology,2,High,2024-01-15,Monday,1,1,2024,False,12,8,20,289.90000000000003,1,False
+SHF0051,STF010,DEPT03,DT20240701,2024-07-01,Night,8.2,0.2,9,False,Pooja Reddy,Nurse,10,Part-Time,247,Cardiology,3,High,2024-07-01,Monday,7,3,2024,False,12,8,20,49.400000000000006,1,False
+SHF0052,STF035,DEPT07,DT20240819,2024-08-19,Night,10.1,2.1,8,False,Nagaraj Patil,Technician,13,Full-Time,186,Orthopaedics,2,Medium,2024-08-19,Monday,8,3,2024,False,10,8,18,390.6,1,False
+SHF0053,STF006,DEPT01,DT20240402,2024-04-02,Morning,8.0,0.0,11,False,Deepa Menon,Nurse,7,Full-Time,219,ICU,4,High,2024-04-02,Tuesday,4,2,2024,False,12,8,20,0.0,2,False
+SHF0054,STF034,DEPT09,DT20240611,2024-06-11,Evening,9.9,1.9,9,False,Srinivas Reddy,Technician,1,Contract,242,Nephrology,2,Medium,2024-06-11,Tuesday,6,2,2024,False,10,8,18,459.79999999999995,2,False
+SHF0055,STF010,DEPT07,DT20240502,2024-05-02,Morning,8.0,0.0,11,False,Pooja Reddy,Nurse,10,Part-Time,247,Orthopaedics,2,Medium,2024-05-02,Thursday,5,2,2024,False,12,8,20,0.0,4,False
+SHF0056,STF023,DEPT10,DT20240725,2024-07-25,Night,10.0,2.0,5,False,Dr. Kiran Rao,Doctor,10,Full-Time,1093,Neurology,2,High,2024-07-25,Thursday,7,3,2024,False,8,8,15,2186.0,4,False
+SHF0057,STF004,DEPT05,DT20240519,2024-05-19,Night,8.1,0.1,8,False,Kavitha Bhat,Nurse,8,Full-Time,302,General_Ward,4,Low,2024-05-19,Sunday,5,2,2024,True,12,8,20,30.200000000000003,7,False
+SHF0058,STF017,DEPT05,DT20240613,2024-06-13,Morning,10.0,2.0,8,False,Uma Rajan,Nurse,2,Full-Time,219,General_Ward,4,Low,2024-06-13,Thursday,6,2,2024,False,12,8,20,438.0,4,False
+SHF0059,STF010,DEPT01,DT20240204,2024-02-04,Night,9.3,1.3,10,False,Pooja Reddy,Nurse,10,Part-Time,247,ICU,4,High,2024-02-04,Sunday,2,1,2024,True,12,8,20,321.1,7,False
+SHF0060,STF006,DEPT06,DT20241003,2024-10-03,Morning,8.0,0.0,10,False,Deepa Menon,Nurse,7,Full-Time,219,Maternity,3,Medium,2024-10-03,Thursday,10,4,2024,False,12,8,20,0.0,4,False
+SHF0061,STF032,DEPT01,DT20240122,2024-01-22,Night,8.3,0.3,7,False,Ashok Yadav,Technician,8,Full-Time,261,ICU,4,High,2024-01-22,Monday,1,1,2024,False,10,8,18,78.3,1,False
+SHF0062,STF031,DEPT07,DT20241214,2024-12-14,Morning,0.0,0.0,0,True,Girish Patel,Technician,7,Full-Time,201,Orthopaedics,2,Medium,2024-12-14,Saturday,12,4,2024,True,10,8,18,0.0,6,False
+SHF0063,STF035,DEPT09,DT20240316,2024-03-16,Evening,8.6,0.6,8,False,Nagaraj Patil,Technician,13,Full-Time,186,Nephrology,2,Medium,2024-03-16,Saturday,3,1,2024,True,10,8,18,111.6,6,False
+SHF0064,STF035,DEPT03,DT20240715,2024-07-15,Night,9.6,1.6,12,False,Nagaraj Patil,Technician,13,Full-Time,186,Cardiology,3,High,2024-07-15,Monday,7,3,2024,False,10,8,18,297.6,1,True
+SHF0065,STF035,DEPT02,DT20240314,2024-03-14,Night,8.0,0.0,10,False,Nagaraj Patil,Technician,13,Full-Time,186,Emergency,5,High,2024-03-14,Thursday,3,1,2024,False,10,8,18,0.0,4,False
+SHF0066,STF013,DEPT03,DT20240315,2024-03-15,Evening,9.9,1.9,10,False,Bindu Singh,Nurse,11,Contract,215,Cardiology,3,High,2024-03-15,Friday,3,1,2024,False,12,8,20,408.5,5,False
+SHF0067,STF030,DEPT01,DT20240303,2024-03-03,Evening,8.0,0.0,9,False,Sunil Bhat,Technician,9,Full-Time,234,ICU,4,High,2024-03-03,Sunday,3,1,2024,True,10,8,18,0.0,7,False
+SHF0068,STF030,DEPT01,DT20240312,2024-03-12,Evening,0.0,0.0,0,True,Sunil Bhat,Technician,9,Full-Time,234,ICU,4,High,2024-03-12,Tuesday,3,1,2024,False,10,8,18,0.0,2,False
+SHF0069,STF003,DEPT06,DT20241007,2024-10-07,Night,10.4,2.4,9,False,Sunita Hegde,Nurse,15,Full-Time,242,Maternity,3,Medium,2024-10-07,Monday,10,4,2024,False,12,8,20,580.8,1,False
+SHF0070,STF005,DEPT06,DT20241201,2024-12-01,Evening,9.4,1.4,8,False,Rekha Sharma,Nurse,8,Full-Time,244,Maternity,3,Medium,2024-12-01,Sunday,12,4,2024,True,12,8,20,341.59999999999997,7,False
+SHF0071,STF013,DEPT01,DT20241002,2024-10-02,Evening,9.2,1.2,11,False,Bindu Singh,Nurse,11,Contract,215,ICU,4,High,2024-10-02,Wednesday,10,4,2024,False,12,8,20,258.0,3,False
+SHF0072,STF040,DEPT03,DT20240602,2024-06-02,Evening,9.4,1.4,10,False,Santosh Kumar,Technician,5,Part-Time,271,Cardiology,3,High,2024-06-02,Sunday,6,2,2024,True,10,8,18,379.4,7,False
+SHF0073,STF019,DEPT01,DT20240709,2024-07-09,Morning,8.4,0.4,11,False,Chitra Murthy,Nurse,6,Full-Time,273,ICU,4,High,2024-07-09,Tuesday,7,3,2024,False,12,8,20,109.2,2,False
+SHF0074,STF032,DEPT02,DT20240810,2024-08-10,Morning,10.0,2.0,9,False,Ashok Yadav,Technician,8,Full-Time,261,Emergency,5,High,2024-08-10,Saturday,8,3,2024,True,10,8,18,522.0,6,False
+SHF0075,STF008,DEPT04,DT20241122,2024-11-22,Night,8.0,0.0,12,False,Meena Iyer,Nurse,17,Contract,241,Oncology,3,Medium,2024-11-22,Friday,11,4,2024,False,12,8,20,0.0,5,False
+SHF0076,STF011,DEPT08,DT20241215,2024-12-15,Morning,9.5,1.5,8,False,Swathi Nayak,Nurse,17,Full-Time,201,Paediatrics,3,Medium,2024-12-15,Sunday,12,4,2024,True,12,8,20,301.5,7,False
+SHF0077,STF007,DEPT07,DT20241121,2024-11-21,Morning,8.0,0.0,10,False,Shalini Kumar,Nurse,6,Full-Time,256,Orthopaedics,2,Medium,2024-11-21,Thursday,11,4,2024,False,12,8,20,0.0,4,False
+SHF0078,STF021,DEPT08,DT20240815,2024-08-15,Night,10.0,2.0,4,False,Dr. Suresh Pai,Doctor,4,Full-Time,903,Paediatrics,3,Medium,2024-08-15,Thursday,8,3,2024,False,8,8,15,1806.0,4,False
+SHF0079,STF024,DEPT06,DT20240506,2024-05-06,Evening,9.9,1.9,5,False,Dr. Vijay Kumar,Doctor,15,Full-Time,842,Maternity,3,Medium,2024-05-06,Monday,5,2,2024,False,8,8,15,1599.8,1,False
+SHF0080,STF006,DEPT08,DT20240428,2024-04-28,Night,8.9,0.9,9,False,Deepa Menon,Nurse,7,Full-Time,219,Paediatrics,3,Medium,2024-04-28,Sunday,4,2,2024,True,12,8,20,197.1,7,False
+SHF0081,STF033,DEPT05,DT20240705,2024-07-05,Evening,10.2,2.2,10,False,Mahesh Tiwari,Technician,6,Full-Time,232,General_Ward,4,Low,2024-07-05,Friday,7,3,2024,False,10,8,18,510.40000000000003,5,False
+SHF0082,STF028,DEPT07,DT20240609,2024-06-09,Evening,8.0,0.0,4,False,Dr. Anand Gupta,Doctor,19,Part-Time,739,Orthopaedics,2,Medium,2024-06-09,Sunday,6,2,2024,True,8,8,15,0.0,7,False
+SHF0083,STF006,DEPT04,DT20240127,2024-01-27,Night,0.0,0.0,0,True,Deepa Menon,Nurse,7,Full-Time,219,Oncology,3,Medium,2024-01-27,Saturday,1,1,2024,True,12,8,20,0.0,6,False
+SHF0084,STF040,DEPT07,DT20241216,2024-12-16,Evening,0.0,0.0,0,True,Santosh Kumar,Technician,5,Part-Time,271,Orthopaedics,2,Medium,2024-12-16,Monday,12,4,2024,False,10,8,18,0.0,1,False
+SHF0085,STF034,DEPT05,DT20240406,2024-04-06,Evening,8.0,0.0,6,False,Srinivas Reddy,Technician,1,Contract,242,General_Ward,4,Low,2024-04-06,Saturday,4,2,2024,True,10,8,18,0.0,6,False
+SHF0086,STF025,DEPT02,DT20240430,2024-04-30,Night,0.0,0.0,0,True,Dr. Ranjit Singh,Doctor,16,Contract,1015,Emergency,5,High,2024-04-30,Tuesday,4,2,2024,False,8,8,15,0.0,2,False
+SHF0087,STF014,DEPT09,DT20241119,2024-11-19,Morning,8.0,0.0,11,False,Latha Pillai,Nurse,8,Full-Time,223,Nephrology,2,Medium,2024-11-19,Tuesday,11,4,2024,False,12,8,20,0.0,2,False
+SHF0088,STF026,DEPT01,DT20241017,2024-10-17,Morning,9.6,1.6,4,False,Dr. Deepak Nair,Doctor,5,Full-Time,999,ICU,4,High,2024-10-17,Thursday,10,4,2024,False,8,8,15,1598.4,4,False
+SHF0089,STF017,DEPT04,DT20240813,2024-08-13,Night,8.0,0.0,12,False,Uma Rajan,Nurse,2,Full-Time,219,Oncology,3,Medium,2024-08-13,Tuesday,8,3,2024,False,12,8,20,0.0,2,False
+SHF0090,STF003,DEPT03,DT20241122,2024-11-22,Evening,8.6,0.6,10,False,Sunita Hegde,Nurse,15,Full-Time,242,Cardiology,3,High,2024-11-22,Friday,11,4,2024,False,12,8,20,145.2,5,False
+SHF0091,STF021,DEPT09,DT20240902,2024-09-02,Morning,8.1,0.1,5,False,Dr. Suresh Pai,Doctor,4,Full-Time,903,Nephrology,2,Medium,2024-09-02,Monday,9,3,2024,False,8,8,15,90.30000000000001,1,False
+SHF0092,STF017,DEPT07,DT20240114,2024-01-14,Evening,11.4,3.4,12,False,Uma Rajan,Nurse,2,Full-Time,219,Orthopaedics,2,Medium,2024-01-14,Sunday,1,1,2024,True,12,8,20,744.6,7,False
+SHF0093,STF026,DEPT07,DT20241116,2024-11-16,Morning,11.7,3.7,8,False,Dr. Deepak Nair,Doctor,5,Full-Time,999,Orthopaedics,2,Medium,2024-11-16,Saturday,11,4,2024,True,8,8,15,3696.3,6,False
+SHF0094,STF017,DEPT10,DT20240206,2024-02-06,Evening,11.8,3.8,10,False,Uma Rajan,Nurse,2,Full-Time,219,Neurology,2,High,2024-02-06,Tuesday,2,1,2024,False,12,8,20,832.1999999999999,2,False
+SHF0095,STF034,DEPT03,DT20240728,2024-07-28,Evening,0.0,0.0,0,True,Srinivas Reddy,Technician,1,Contract,242,Cardiology,3,High,2024-07-28,Sunday,7,3,2024,True,10,8,18,0.0,7,False
+SHF0096,STF010,DEPT03,DT20240808,2024-08-08,Morning,0.0,0.0,0,True,Pooja Reddy,Nurse,10,Part-Time,247,Cardiology,3,High,2024-08-08,Thursday,8,3,2024,False,12,8,20,0.0,4,False
+SHF0097,STF029,DEPT05,DT20240808,2024-08-08,Night,9.6,1.6,10,False,Ramesh Naik,Technician,13,Part-Time,256,General_Ward,4,Low,2024-08-08,Thursday,8,3,2024,False,10,8,18,409.6,4,False
+SHF0098,STF026,DEPT10,DT20241026,2024-10-26,Morning,8.6,0.6,4,False,Dr. Deepak Nair,Doctor,5,Full-Time,999,Neurology,2,High,2024-10-26,Saturday,10,4,2024,True,8,8,15,599.4,6,False
+SHF0099,STF018,DEPT04,DT20240701,2024-07-01,Night,9.9,1.9,12,False,Revathi Deshpande,Nurse,20,Contract,213,Oncology,3,Medium,2024-07-01,Monday,7,3,2024,False,12,8,20,404.7,1,False
+SHF0100,STF017,DEPT01,DT20240116,2024-01-16,Night,8.1,0.1,9,False,Uma Rajan,Nurse,2,Full-Time,219,ICU,4,High,2024-01-16,Tuesday,1,1,2024,False,12,8,20,21.900000000000002,2,False
+SHF0101,STF010,DEPT10,DT20240910,2024-09-10,Evening,8.0,0.0,8,False,Pooja Reddy,Nurse,10,Part-Time,247,Neurology,2,High,2024-09-10,Tuesday,9,3,2024,False,12,8,20,0.0,2,False
+SHF0102,STF005,DEPT01,DT20240126,2024-01-26,Evening,10.5,2.5,9,False,Rekha Sharma,Nurse,8,Full-Time,244,ICU,4,High,2024-01-26,Friday,1,1,2024,False,12,8,20,610.0,5,False
+SHF0103,STF028,DEPT02,DT20240827,2024-08-27,Night,8.0,0.0,7,False,Dr. Anand Gupta,Doctor,19,Part-Time,739,Emergency,5,High,2024-08-27,Tuesday,8,3,2024,False,8,8,15,0.0,2,False
+SHF0104,STF039,DEPT08,DT20240721,2024-07-21,Evening,9.1,1.1,11,False,Dinesh Raju,Technician,6,Full-Time,253,Paediatrics,3,Medium,2024-07-21,Sunday,7,3,2024,True,10,8,18,278.3,7,True
+SHF0105,STF017,DEPT05,DT20240127,2024-01-27,Night,8.0,0.0,12,False,Uma Rajan,Nurse,2,Full-Time,219,General_Ward,4,Low,2024-01-27,Saturday,1,1,2024,True,12,8,20,0.0,6,False
+SHF0106,STF026,DEPT02,DT20240722,2024-07-22,Evening,9.1,1.1,7,False,Dr. Deepak Nair,Doctor,5,Full-Time,999,Emergency,5,High,2024-07-22,Monday,7,3,2024,False,8,8,15,1098.9,1,False
+SHF0107,STF007,DEPT07,DT20241028,2024-10-28,Night,0.0,0.0,0,True,Shalini Kumar,Nurse,6,Full-Time,256,Orthopaedics,2,Medium,2024-10-28,Monday,10,4,2024,False,12,8,20,0.0,1,False
+SHF0108,STF008,DEPT08,DT20240629,2024-06-29,Evening,9.1,1.1,9,False,Meena Iyer,Nurse,17,Contract,241,Paediatrics,3,Medium,2024-06-29,Saturday,6,2,2024,True,12,8,20,265.1,6,False
+SHF0109,STF022,DEPT01,DT20240813,2024-08-13,Morning,8.6,0.6,9,False,Dr. Arun Menon,Doctor,17,Full-Time,712,ICU,4,High,2024-08-13,Tuesday,8,3,2024,False,8,8,15,427.2,2,True
+SHF0110,STF016,DEPT05,DT20240408,2024-04-08,Morning,9.5,1.5,15,False,Savitha Gowda,Nurse,2,Full-Time,267,General_Ward,4,Low,2024-04-08,Monday,4,2,2024,False,12,8,20,400.5,1,True
+SHF0111,STF020,DEPT04,DT20241031,2024-10-31,Evening,8.0,0.0,11,False,Manjula Shetty,Nurse,3,Full-Time,283,Oncology,3,Medium,2024-10-31,Thursday,10,4,2024,False,12,8,20,0.0,4,False
+SHF0112,STF007,DEPT04,DT20241115,2024-11-15,Evening,8.5,0.5,11,False,Shalini Kumar,Nurse,6,Full-Time,256,Oncology,3,Medium,2024-11-15,Friday,11,4,2024,False,12,8,20,128.0,5,False
+SHF0113,STF024,DEPT06,DT20241202,2024-12-02,Night,0.0,0.0,0,True,Dr. Vijay Kumar,Doctor,15,Full-Time,842,Maternity,3,Medium,2024-12-02,Monday,12,4,2024,False,8,8,15,0.0,1,False
+SHF0114,STF028,DEPT04,DT20241122,2024-11-22,Night,0.0,0.0,0,True,Dr. Anand Gupta,Doctor,19,Part-Time,739,Oncology,3,Medium,2024-11-22,Friday,11,4,2024,False,8,8,15,0.0,5,False
+SHF0115,STF005,DEPT01,DT20241225,2024-12-25,Morning,0.0,0.0,0,True,Rekha Sharma,Nurse,8,Full-Time,244,ICU,4,High,2024-12-25,Wednesday,12,4,2024,False,12,8,20,0.0,3,False
+SHF0116,STF016,DEPT06,DT20240704,2024-07-04,Morning,9.0,1.0,8,False,Savitha Gowda,Nurse,2,Full-Time,267,Maternity,3,Medium,2024-07-04,Thursday,7,3,2024,False,12,8,20,267.0,4,False
+SHF0117,STF002,DEPT10,DT20240605,2024-06-05,Night,8.0,0.0,11,False,Preethi Nair,Nurse,15,Full-Time,223,Neurology,2,High,2024-06-05,Wednesday,6,2,2024,False,12,8,20,0.0,3,False
+SHF0118,STF033,DEPT05,DT20240916,2024-09-16,Night,9.4,1.4,6,False,Mahesh Tiwari,Technician,6,Full-Time,232,General_Ward,4,Low,2024-09-16,Monday,9,3,2024,False,10,8,18,324.79999999999995,1,False
+SHF0119,STF017,DEPT02,DT20241125,2024-11-25,Evening,8.1,0.1,12,False,Uma Rajan,Nurse,2,Full-Time,219,Emergency,5,High,2024-11-25,Monday,11,4,2024,False,12,8,20,21.900000000000002,1,False
+SHF0120,STF038,DEPT05,DT20240714,2024-07-14,Night,0.0,0.0,0,True,Vinod Kamath,Technician,13,Full-Time,272,General_Ward,4,Low,2024-07-14,Sunday,7,3,2024,True,10,8,18,0.0,7,False
+SHF0121,STF004,DEPT01,DT20240909,2024-09-09,Night,8.8,0.8,14,False,Kavitha Bhat,Nurse,8,Full-Time,302,ICU,4,High,2024-09-09,Monday,9,3,2024,False,12,8,20,241.60000000000002,1,True
+SHF0122,STF019,DEPT09,DT20240312,2024-03-12,Night,8.0,0.0,8,False,Chitra Murthy,Nurse,6,Full-Time,273,Nephrology,2,Medium,2024-03-12,Tuesday,3,1,2024,False,12,8,20,0.0,2,False
+SHF0123,STF036,DEPT08,DT20241001,2024-10-01,Evening,8.0,0.0,6,False,Rajeev Sinha,Technician,11,Full-Time,273,Paediatrics,3,Medium,2024-10-01,Tuesday,10,4,2024,False,10,8,18,0.0,2,False
+SHF0124,STF009,DEPT01,DT20240508,2024-05-08,Evening,8.7,0.7,12,False,Vidya Patil,Nurse,10,Contract,218,ICU,4,High,2024-05-08,Wednesday,5,2,2024,False,12,8,20,152.6,3,False
+SHF0125,STF020,DEPT02,DT20240321,2024-03-21,Night,10.2,2.2,11,False,Manjula Shetty,Nurse,3,Full-Time,283,Emergency,5,High,2024-03-21,Thursday,3,1,2024,False,12,8,20,622.6,4,False
+SHF0126,STF011,DEPT10,DT20240410,2024-04-10,Evening,8.4,0.4,14,False,Swathi Nayak,Nurse,17,Full-Time,201,Neurology,2,High,2024-04-10,Wednesday,4,2,2024,False,12,8,20,80.4,3,True
+SHF0127,STF018,DEPT05,DT20240212,2024-02-12,Night,9.4,1.4,12,False,Revathi Deshpande,Nurse,20,Contract,213,General_Ward,4,Low,2024-02-12,Monday,2,1,2024,False,12,8,20,298.2,1,False
+SHF0128,STF036,DEPT10,DT20240819,2024-08-19,Evening,9.3,1.3,7,False,Rajeev Sinha,Technician,11,Full-Time,273,Neurology,2,High,2024-08-19,Monday,8,3,2024,False,10,8,18,354.90000000000003,1,False
+SHF0129,STF031,DEPT03,DT20240829,2024-08-29,Morning,8.2,0.2,9,False,Girish Patel,Technician,7,Full-Time,201,Cardiology,3,High,2024-08-29,Thursday,8,3,2024,False,10,8,18,40.2,4,False
+SHF0130,STF026,DEPT02,DT20241118,2024-11-18,Evening,0.0,0.0,0,True,Dr. Deepak Nair,Doctor,5,Full-Time,999,Emergency,5,High,2024-11-18,Monday,11,4,2024,False,8,8,15,0.0,1,False
+SHF0131,STF016,DEPT03,DT20240907,2024-09-07,Evening,8.2,0.2,13,False,Savitha Gowda,Nurse,2,Full-Time,267,Cardiology,3,High,2024-09-07,Saturday,9,3,2024,True,12,8,20,53.400000000000006,6,True
+SHF0132,STF027,DEPT01,DT20241023,2024-10-23,Morning,9.4,1.4,5,False,Dr. Priya Sharma,Doctor,12,Full-Time,1195,ICU,4,High,2024-10-23,Wednesday,10,4,2024,False,8,8,15,1673.0,3,False
+SHF0133,STF021,DEPT02,DT20240623,2024-06-23,Night,8.0,0.0,5,False,Dr. Suresh Pai,Doctor,4,Full-Time,903,Emergency,5,High,2024-06-23,Sunday,6,2,2024,True,8,8,15,0.0,7,False
+SHF0134,STF030,DEPT06,DT20240126,2024-01-26,Morning,9.7,1.7,10,False,Sunil Bhat,Technician,9,Full-Time,234,Maternity,3,Medium,2024-01-26,Friday,1,1,2024,False,10,8,18,397.8,5,False
+SHF0135,STF022,DEPT03,DT20240415,2024-04-15,Evening,10.6,2.6,7,False,Dr. Arun Menon,Doctor,17,Full-Time,712,Cardiology,3,High,2024-04-15,Monday,4,2,2024,False,8,8,15,1851.2,1,False
+SHF0136,STF033,DEPT02,DT20240605,2024-06-05,Morning,9.1,1.1,10,False,Mahesh Tiwari,Technician,6,Full-Time,232,Emergency,5,High,2024-06-05,Wednesday,6,2,2024,False,10,8,18,255.20000000000002,3,False
+SHF0137,STF012,DEPT01,DT20241221,2024-12-21,Morning,8.2,0.2,10,False,Asha Kulkarni,Nurse,13,Full-Time,292,ICU,4,High,2024-12-21,Saturday,12,4,2024,True,12,8,20,58.400000000000006,6,False
+SHF0138,STF020,DEPT08,DT20240606,2024-06-06,Evening,8.0,0.0,11,False,Manjula Shetty,Nurse,3,Full-Time,283,Paediatrics,3,Medium,2024-06-06,Thursday,6,2,2024,False,12,8,20,0.0,4,False
+SHF0139,STF023,DEPT06,DT20241123,2024-11-23,Morning,0.0,0.0,0,True,Dr. Kiran Rao,Doctor,10,Full-Time,1093,Maternity,3,Medium,2024-11-23,Saturday,11,4,2024,True,8,8,15,0.0,6,False
+SHF0140,STF035,DEPT02,DT20241104,2024-11-04,Night,0.0,0.0,0,True,Nagaraj Patil,Technician,13,Full-Time,186,Emergency,5,High,2024-11-04,Monday,11,4,2024,False,10,8,18,0.0,1,False
+SHF0141,STF005,DEPT04,DT20241016,2024-10-16,Morning,8.1,0.1,10,False,Rekha Sharma,Nurse,8,Full-Time,244,Oncology,3,Medium,2024-10-16,Wednesday,10,4,2024,False,12,8,20,24.400000000000002,3,False
+SHF0142,STF032,DEPT02,DT20240130,2024-01-30,Evening,9.1,1.1,6,False,Ashok Yadav,Technician,8,Full-Time,261,Emergency,5,High,2024-01-30,Tuesday,1,1,2024,False,10,8,18,287.1,2,False
+SHF0143,STF032,DEPT01,DT20241025,2024-10-25,Evening,8.2,0.2,10,False,Ashok Yadav,Technician,8,Full-Time,261,ICU,4,High,2024-10-25,Friday,10,4,2024,False,10,8,18,52.2,5,False
+SHF0144,STF037,DEPT10,DT20241228,2024-12-28,Evening,8.0,0.0,9,False,Prasad Nair,Technician,18,Part-Time,185,Neurology,2,High,2024-12-28,Saturday,12,4,2024,True,10,8,18,0.0,6,False
+SHF0145,STF013,DEPT05,DT20240215,2024-02-15,Morning,9.4,1.4,11,False,Bindu Singh,Nurse,11,Contract,215,General_Ward,4,Low,2024-02-15,Thursday,2,1,2024,False,12,8,20,301.0,4,False
+SHF0146,STF031,DEPT08,DT20240901,2024-09-01,Morning,8.0,0.0,11,False,Girish Patel,Technician,7,Full-Time,201,Paediatrics,3,Medium,2024-09-01,Sunday,9,3,2024,True,10,8,18,0.0,7,True
+SHF0147,STF016,DEPT09,DT20240828,2024-08-28,Evening,8.9,0.9,11,False,Savitha Gowda,Nurse,2,Full-Time,267,Nephrology,2,Medium,2024-08-28,Wednesday,8,3,2024,False,12,8,20,240.3,3,False
+SHF0148,STF003,DEPT09,DT20240810,2024-08-10,Evening,8.2,0.2,8,False,Sunita Hegde,Nurse,15,Full-Time,242,Nephrology,2,Medium,2024-08-10,Saturday,8,3,2024,True,12,8,20,48.400000000000006,6,False
+SHF0149,STF030,DEPT01,DT20240105,2024-01-05,Night,0.0,0.0,0,True,Sunil Bhat,Technician,9,Full-Time,234,ICU,4,High,2024-01-05,Friday,1,1,2024,False,10,8,18,0.0,5,False
+SHF0150,STF033,DEPT09,DT20240520,2024-05-20,Evening,9.1,1.1,7,False,Mahesh Tiwari,Technician,6,Full-Time,232,Nephrology,2,Medium,2024-05-20,Monday,5,2,2024,False,10,8,18,255.20000000000002,1,False
+SHF0151,STF019,DEPT06,DT20240928,2024-09-28,Morning,11.2,3.2,8,False,Chitra Murthy,Nurse,6,Full-Time,273,Maternity,3,Medium,2024-09-28,Saturday,9,3,2024,True,12,8,20,873.6,6,False
+SHF0152,STF021,DEPT03,DT20240731,2024-07-31,Evening,9.4,1.4,11,False,Dr. Suresh Pai,Doctor,4,Full-Time,903,Cardiology,3,High,2024-07-31,Wednesday,7,3,2024,False,8,8,15,1264.1999999999998,3,True
+SHF0153,STF035,DEPT09,DT20241104,2024-11-04,Night,8.1,0.1,9,False,Nagaraj Patil,Technician,13,Full-Time,186,Nephrology,2,Medium,2024-11-04,Monday,11,4,2024,False,10,8,18,18.6,1,False
+SHF0154,STF013,DEPT03,DT20240406,2024-04-06,Evening,10.3,2.3,12,False,Bindu Singh,Nurse,11,Contract,215,Cardiology,3,High,2024-04-06,Saturday,4,2,2024,True,12,8,20,494.49999999999994,6,False
+SHF0155,STF002,DEPT05,DT20240628,2024-06-28,Night,0.0,0.0,0,True,Preethi Nair,Nurse,15,Full-Time,223,General_Ward,4,Low,2024-06-28,Friday,6,2,2024,False,12,8,20,0.0,5,False
+SHF0156,STF019,DEPT09,DT20240818,2024-08-18,Evening,0.0,0.0,0,True,Chitra Murthy,Nurse,6,Full-Time,273,Nephrology,2,Medium,2024-08-18,Sunday,8,3,2024,True,12,8,20,0.0,7,False
+SHF0157,STF027,DEPT04,DT20241230,2024-12-30,Evening,8.0,0.0,5,False,Dr. Priya Sharma,Doctor,12,Full-Time,1195,Oncology,3,Medium,2024-12-30,Monday,12,4,2024,False,8,8,15,0.0,1,False
+SHF0158,STF037,DEPT01,DT20241227,2024-12-27,Night,8.0,0.0,6,False,Prasad Nair,Technician,18,Part-Time,185,ICU,4,High,2024-12-27,Friday,12,4,2024,False,10,8,18,0.0,5,False
+SHF0159,STF022,DEPT01,DT20240606,2024-06-06,Evening,8.0,0.0,4,False,Dr. Arun Menon,Doctor,17,Full-Time,712,ICU,4,High,2024-06-06,Thursday,6,2,2024,False,8,8,15,0.0,4,False
+SHF0160,STF025,DEPT10,DT20240628,2024-06-28,Morning,8.0,0.0,7,False,Dr. Ranjit Singh,Doctor,16,Contract,1015,Neurology,2,High,2024-06-28,Friday,6,2,2024,False,8,8,15,0.0,5,False
+SHF0161,STF025,DEPT09,DT20240501,2024-05-01,Morning,8.0,0.0,4,False,Dr. Ranjit Singh,Doctor,16,Contract,1015,Nephrology,2,Medium,2024-05-01,Wednesday,5,2,2024,False,8,8,15,0.0,3,False
+SHF0162,STF008,DEPT02,DT20240301,2024-03-01,Morning,8.0,0.0,12,False,Meena Iyer,Nurse,17,Contract,241,Emergency,5,High,2024-03-01,Friday,3,1,2024,False,12,8,20,0.0,5,False
+SHF0163,STF025,DEPT01,DT20240518,2024-05-18,Morning,8.4,0.4,7,False,Dr. Ranjit Singh,Doctor,16,Contract,1015,ICU,4,High,2024-05-18,Saturday,5,2,2024,True,8,8,15,406.0,6,False
+SHF0164,STF019,DEPT01,DT20240530,2024-05-30,Morning,0.0,0.0,0,True,Chitra Murthy,Nurse,6,Full-Time,273,ICU,4,High,2024-05-30,Thursday,5,2,2024,False,12,8,20,0.0,4,False
+SHF0165,STF022,DEPT05,DT20240810,2024-08-10,Morning,9.4,1.4,7,False,Dr. Arun Menon,Doctor,17,Full-Time,712,General_Ward,4,Low,2024-08-10,Saturday,8,3,2024,True,8,8,15,996.8,6,False
+SHF0166,STF013,DEPT01,DT20240131,2024-01-31,Night,0.0,0.0,0,True,Bindu Singh,Nurse,11,Contract,215,ICU,4,High,2024-01-31,Wednesday,1,1,2024,False,12,8,20,0.0,3,False
+SHF0167,STF001,DEPT02,DT20240904,2024-09-04,Morning,8.6,0.6,11,False,Anitha Rao,Nurse,4,Full-Time,283,Emergency,5,High,2024-09-04,Wednesday,9,3,2024,False,12,8,20,169.79999999999998,3,False
+SHF0168,STF033,DEPT09,DT20240706,2024-07-06,Morning,8.7,0.7,9,False,Mahesh Tiwari,Technician,6,Full-Time,232,Nephrology,2,Medium,2024-07-06,Saturday,7,3,2024,True,10,8,18,162.39999999999998,6,False
+SHF0169,STF037,DEPT07,DT20240519,2024-05-19,Evening,0.0,0.0,0,True,Prasad Nair,Technician,18,Part-Time,185,Orthopaedics,2,Medium,2024-05-19,Sunday,5,2,2024,True,10,8,18,0.0,7,False
+SHF0170,STF029,DEPT08,DT20240713,2024-07-13,Night,0.0,0.0,0,True,Ramesh Naik,Technician,13,Part-Time,256,Paediatrics,3,Medium,2024-07-13,Saturday,7,3,2024,True,10,8,18,0.0,6,False
+SHF0171,STF006,DEPT10,DT20240216,2024-02-16,Morning,9.8,1.8,10,False,Deepa Menon,Nurse,7,Full-Time,219,Neurology,2,High,2024-02-16,Friday,2,1,2024,False,12,8,20,394.2,5,False
+SHF0172,STF026,DEPT01,DT20241204,2024-12-04,Evening,8.0,0.0,5,False,Dr. Deepak Nair,Doctor,5,Full-Time,999,ICU,4,High,2024-12-04,Wednesday,12,4,2024,False,8,8,15,0.0,3,False
+SHF0173,STF040,DEPT08,DT20241011,2024-10-11,Evening,8.0,0.0,6,False,Santosh Kumar,Technician,5,Part-Time,271,Paediatrics,3,Medium,2024-10-11,Friday,10,4,2024,False,10,8,18,0.0,5,False
+SHF0174,STF023,DEPT09,DT20240922,2024-09-22,Morning,9.1,1.1,8,False,Dr. Kiran Rao,Doctor,10,Full-Time,1093,Nephrology,2,Medium,2024-09-22,Sunday,9,3,2024,True,8,8,15,1202.3000000000002,7,False
+SHF0175,STF039,DEPT01,DT20241214,2024-12-14,Morning,8.0,0.0,9,False,Dinesh Raju,Technician,6,Full-Time,253,ICU,4,High,2024-12-14,Saturday,12,4,2024,True,10,8,18,0.0,6,False
+SHF0176,STF031,DEPT02,DT20240911,2024-09-11,Evening,10.3,2.3,9,False,Girish Patel,Technician,7,Full-Time,201,Emergency,5,High,2024-09-11,Wednesday,9,3,2024,False,10,8,18,462.29999999999995,3,False
+SHF0177,STF020,DEPT09,DT20240830,2024-08-30,Night,9.2,1.2,14,False,Manjula Shetty,Nurse,3,Full-Time,283,Nephrology,2,Medium,2024-08-30,Friday,8,3,2024,False,12,8,20,339.59999999999997,5,True
+SHF0178,STF012,DEPT05,DT20240906,2024-09-06,Evening,8.2,0.2,13,False,Asha Kulkarni,Nurse,13,Full-Time,292,General_Ward,4,Low,2024-09-06,Friday,9,3,2024,False,12,8,20,58.400000000000006,5,True
+SHF0179,STF032,DEPT05,DT20241022,2024-10-22,Night,0.0,0.0,0,True,Ashok Yadav,Technician,8,Full-Time,261,General_Ward,4,Low,2024-10-22,Tuesday,10,4,2024,False,10,8,18,0.0,2,False
+SHF0180,STF026,DEPT02,DT20240725,2024-07-25,Night,8.6,0.6,8,False,Dr. Deepak Nair,Doctor,5,Full-Time,999,Emergency,5,High,2024-07-25,Thursday,7,3,2024,False,8,8,15,599.4,4,False
+SHF0181,STF019,DEPT07,DT20240725,2024-07-25,Evening,9.8,1.8,11,False,Chitra Murthy,Nurse,6,Full-Time,273,Orthopaedics,2,Medium,2024-07-25,Thursday,7,3,2024,False,12,8,20,491.40000000000003,4,False
+SHF0182,STF040,DEPT05,DT20240320,2024-03-20,Morning,8.0,0.0,6,False,Santosh Kumar,Technician,5,Part-Time,271,General_Ward,4,Low,2024-03-20,Wednesday,3,1,2024,False,10,8,18,0.0,3,False
+SHF0183,STF005,DEPT05,DT20240708,2024-07-08,Night,8.3,0.3,10,False,Rekha Sharma,Nurse,8,Full-Time,244,General_Ward,4,Low,2024-07-08,Monday,7,3,2024,False,12,8,20,73.2,1,False
+SHF0184,STF013,DEPT04,DT20241009,2024-10-09,Night,8.0,0.0,9,False,Bindu Singh,Nurse,11,Contract,215,Oncology,3,Medium,2024-10-09,Wednesday,10,4,2024,False,12,8,20,0.0,3,False
+SHF0185,STF040,DEPT03,DT20240219,2024-02-19,Night,0.0,0.0,0,True,Santosh Kumar,Technician,5,Part-Time,271,Cardiology,3,High,2024-02-19,Monday,2,1,2024,False,10,8,18,0.0,1,False
+SHF0186,STF008,DEPT05,DT20241221,2024-12-21,Night,8.6,0.6,11,False,Meena Iyer,Nurse,17,Contract,241,General_Ward,4,Low,2024-12-21,Saturday,12,4,2024,True,12,8,20,144.6,6,False
+SHF0187,STF026,DEPT07,DT20240130,2024-01-30,Night,8.6,0.6,4,False,Dr. Deepak Nair,Doctor,5,Full-Time,999,Orthopaedics,2,Medium,2024-01-30,Tuesday,1,1,2024,False,8,8,15,599.4,2,False
+SHF0188,STF023,DEPT08,DT20240813,2024-08-13,Night,9.5,1.5,8,False,Dr. Kiran Rao,Doctor,10,Full-Time,1093,Paediatrics,3,Medium,2024-08-13,Tuesday,8,3,2024,False,8,8,15,1639.5,2,False
+SHF0189,STF005,DEPT06,DT20241206,2024-12-06,Morning,8.0,0.0,9,False,Rekha Sharma,Nurse,8,Full-Time,244,Maternity,3,Medium,2024-12-06,Friday,12,4,2024,False,12,8,20,0.0,5,False
+SHF0190,STF019,DEPT06,DT20241204,2024-12-04,Evening,8.3,0.3,9,False,Chitra Murthy,Nurse,6,Full-Time,273,Maternity,3,Medium,2024-12-04,Wednesday,12,4,2024,False,12,8,20,81.89999999999999,3,False
+SHF0191,STF030,DEPT08,DT20240221,2024-02-21,Night,9.1,1.1,10,False,Sunil Bhat,Technician,9,Full-Time,234,Paediatrics,3,Medium,2024-02-21,Wednesday,2,1,2024,False,10,8,18,257.40000000000003,3,False
+SHF0192,STF036,DEPT01,DT20241210,2024-12-10,Night,8.0,0.0,10,False,Rajeev Sinha,Technician,11,Full-Time,273,ICU,4,High,2024-12-10,Tuesday,12,4,2024,False,10,8,18,0.0,2,False
+SHF0193,STF029,DEPT03,DT20240316,2024-03-16,Evening,10.4,2.4,9,False,Ramesh Naik,Technician,13,Part-Time,256,Cardiology,3,High,2024-03-16,Saturday,3,1,2024,True,10,8,18,614.4,6,False
+SHF0194,STF015,DEPT07,DT20240524,2024-05-24,Evening,8.2,0.2,9,False,Nalini Joshi,Nurse,1,Full-Time,221,Orthopaedics,2,Medium,2024-05-24,Friday,5,2,2024,False,12,8,20,44.2,5,False
+SHF0195,STF020,DEPT08,DT20241109,2024-11-09,Evening,9.9,1.9,8,False,Manjula Shetty,Nurse,3,Full-Time,283,Paediatrics,3,Medium,2024-11-09,Saturday,11,4,2024,True,12,8,20,537.6999999999999,6,False
+SHF0196,STF026,DEPT01,DT20241128,2024-11-28,Evening,9.0,1.0,7,False,Dr. Deepak Nair,Doctor,5,Full-Time,999,ICU,4,High,2024-11-28,Thursday,11,4,2024,False,8,8,15,999.0,4,False
+SHF0197,STF008,DEPT08,DT20240829,2024-08-29,Morning,9.3,1.3,12,False,Meena Iyer,Nurse,17,Contract,241,Paediatrics,3,Medium,2024-08-29,Thursday,8,3,2024,False,12,8,20,313.3,4,False
+SHF0198,STF017,DEPT08,DT20240320,2024-03-20,Evening,8.9,0.9,8,False,Uma Rajan,Nurse,2,Full-Time,219,Paediatrics,3,Medium,2024-03-20,Wednesday,3,1,2024,False,12,8,20,197.1,3,False
+SHF0199,STF013,DEPT01,DT20240915,2024-09-15,Night,0.0,0.0,0,True,Bindu Singh,Nurse,11,Contract,215,ICU,4,High,2024-09-15,Sunday,9,3,2024,True,12,8,20,0.0,7,False
+SHF0200,STF035,DEPT08,DT20241206,2024-12-06,Evening,0.0,0.0,0,True,Nagaraj Patil,Technician,13,Full-Time,186,Paediatrics,3,Medium,2024-12-06,Friday,12,4,2024,False,10,8,18,0.0,5,False
