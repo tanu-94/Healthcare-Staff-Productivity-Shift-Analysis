@@ -1,0 +1,4 @@
+role,max_patients_per_shift,standard_shift_hrs,overtime_threshold_hrs
+Nurse,12,8,20
+Doctor,8,8,15
+Technician,10,8,18

@@ -1,0 +1,41 @@
+staff_id,staff_name,role,experience_yrs,contract_type,hourly_rate
+STF001,Anitha Rao,Nurse,4,Full-Time,283
+STF002,Preethi Nair,Nurse,15,Full-Time,223
+STF003,Sunita Hegde,Nurse,15,Full-Time,242
+STF004,Kavitha Bhat,Nurse,8,Full-Time,302
+STF005,Rekha Sharma,Nurse,8,Full-Time,244
+STF006,Deepa Menon,Nurse,7,Full-Time,219
+STF007,Shalini Kumar,Nurse,6,Full-Time,256
+STF008,Meena Iyer,Nurse,17,Contract,241
+STF009,Vidya Patil,Nurse,10,Contract,218
+STF010,Pooja Reddy,Nurse,10,Part-Time,247
+STF011,Swathi Nayak,Nurse,17,Full-Time,201
+STF012,Asha Kulkarni,Nurse,13,Full-Time,292
+STF013,Bindu Singh,Nurse,11,Contract,215
+STF014,Latha Pillai,Nurse,8,Full-Time,223
+STF015,Nalini Joshi,Nurse,1,Full-Time,221
+STF016,Savitha Gowda,Nurse,2,Full-Time,267
+STF017,Uma Rajan,Nurse,2,Full-Time,219
+STF018,Revathi Deshpande,Nurse,20,Contract,213
+STF019,Chitra Murthy,Nurse,6,Full-Time,273
+STF020,Manjula Shetty,Nurse,3,Full-Time,283
+STF021,Dr. Suresh Pai,Doctor,4,Full-Time,903
+STF022,Dr. Arun Menon,Doctor,17,Full-Time,712
+STF023,Dr. Kiran Rao,Doctor,10,Full-Time,1093
+STF024,Dr. Vijay Kumar,Doctor,15,Full-Time,842
+STF025,Dr. Ranjit Singh,Doctor,16,Contract,1015
+STF026,Dr. Deepak Nair,Doctor,5,Full-Time,999
+STF027,Dr. Priya Sharma,Doctor,12,Full-Time,1195
+STF028,Dr. Anand Gupta,Doctor,19,Part-Time,739
+STF029,Ramesh Naik,Technician,13,Part-Time,256
+STF030,Sunil Bhat,Technician,9,Full-Time,234
+STF031,Girish Patel,Technician,7,Full-Time,201
+STF032,Ashok Yadav,Technician,8,Full-Time,261
+STF033,Mahesh Tiwari,Technician,6,Full-Time,232
+STF034,Srinivas Reddy,Technician,1,Contract,242
+STF035,Nagaraj Patil,Technician,13,Full-Time,186
+STF036,Rajeev Sinha,Technician,11,Full-Time,273
+STF037,Prasad Nair,Technician,18,Part-Time,185
+STF038,Vinod Kamath,Technician,13,Full-Time,272
+STF039,Dinesh Raju,Technician,6,Full-Time,253
+STF040,Santosh Kumar,Technician,5,Part-Time,271

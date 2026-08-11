@@ -1,0 +1,11 @@
+dept_id,dept_name,required_staff_per_shift,criticality
+DEPT01,ICU,4,High
+DEPT02,Emergency,5,High
+DEPT03,Cardiology,3,High
+DEPT04,Oncology,3,Medium
+DEPT05,General_Ward,4,Low
+DEPT06,Maternity,3,Medium
+DEPT07,Orthopaedics,2,Medium
+DEPT08,Paediatrics,3,Medium
+DEPT09,Nephrology,2,Medium
+DEPT10,Neurology,2,High
